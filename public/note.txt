@@ -1,4 +1,7 @@
 > npx create-next-app@latest
 > npm i @mui/x-data-grid @mui/material @emotion/styled lucide-react numeral recharts  uuid axios
 > npm i -D @types/node @types/uuid @types/numeral
+
+> change package version: npm i <package-name>@<version>
+> npm i -D tw-colors
 > 
