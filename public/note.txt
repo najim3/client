@@ -4,4 +4,7 @@
 
 > change package version: npm i <package-name>@<version>
 > npm i -D tw-colors
-> 
+
+> npm i react-redux @reduxjs/toolkit dotenv
+> https://github.com/ed-roh/inventory-management/blob/master/client/src/app/redux.tsx
+> npm i redux-persist
